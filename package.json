@@ -9,7 +9,7 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "homepage": "https://akillez01.github.io/Portiflio-3D",
+  "homepage": "https://sbtechsupportbusiness.github.io/Page-Main/",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@react-three/drei": "^9.56.24",
