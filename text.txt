@@ -1,0 +1,4 @@
+git config user.email "SBTechSupportBusiness@outlook.com"
+
+git config user.email
+
